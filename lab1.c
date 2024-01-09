@@ -17,7 +17,7 @@ up:
         printf("Wrong Inital Guesses \n");
         goto up;
     }
-    printf("\nS.N.\t\t\t*1\t\t\t*2\t\t\t*0\t\tf(x0)");
+    printf("\nS.N.\t\t*1\t\t*2\t\t*0\t\tf(x0)");
     do
     {
         x0 = (x1 + x2) / 2;
