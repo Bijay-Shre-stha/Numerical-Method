@@ -3,6 +3,8 @@
 #define f(x, y) x + pow(y, 2)
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     float x0, y0, h, xn, x, y, k1, k2, k3, k4, k, x1, y1;
     int n;
     printf("Enter Initial Condition\n");

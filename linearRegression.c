@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
     int n, i;
     float sumX = 0, sumX2 = 0, sumY = 0, sumXY = 0, a, b;
     /* Input */

@@ -9,6 +9,8 @@
 /* Main function */
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
    float x0 = 0, y0 = 0, z0 = 0, x1, y1, z1, e1, e2, e3, e;
    int count = 1;
    printf("Enter tolerable error:\n");

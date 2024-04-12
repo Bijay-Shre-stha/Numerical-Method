@@ -2,6 +2,8 @@
 #include <math.h>
 
 int main() {
+    printf("This code is run by Bijay Shrestha.\n");
+
     int SIZE_X, SIZE_Y;
     printf("Enter number of steps in x direction:\n");
     scanf("%d", &SIZE_X);

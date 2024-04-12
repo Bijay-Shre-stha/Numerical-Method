@@ -4,6 +4,8 @@
 #define SIZE 10
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     float a[SIZE][SIZE], x[SIZE], ratio;
     int i, j, k, n;
     printf("Enter number of unknowns: ");

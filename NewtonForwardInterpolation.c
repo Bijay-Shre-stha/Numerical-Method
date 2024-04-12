@@ -2,6 +2,8 @@
 
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     int n, i, j, k;
     printf("\n Enter the no of data provided(n):");
     scanf("%d", &n);

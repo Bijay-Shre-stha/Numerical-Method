@@ -3,6 +3,7 @@
 #define f(x) pow(x, 3) + x *x - 3 * x - 3
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
     float x1, x2, x0, f1, f2, f0, e;
     int Sn = 1;
     printf("Enter the error criteria: ");

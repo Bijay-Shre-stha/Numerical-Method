@@ -2,6 +2,8 @@
 
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     float x[100], y[100], xp, yp = 0, p;
     int i, j, n;
     // clrscr();

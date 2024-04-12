@@ -13,6 +13,8 @@ double g(double x)
 
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     double x0, x1, f1, e;
     int SN = 1, max_iterations = 10; 
 

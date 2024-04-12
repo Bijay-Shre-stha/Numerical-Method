@@ -7,6 +7,8 @@
 
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     float lower, upper, integration = 0.0, stepSize, k;
     int i, subInterval;
     printf("Enter lower limit of integration: ");

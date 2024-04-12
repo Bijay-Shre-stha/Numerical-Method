@@ -3,6 +3,8 @@
 #include <math.h>
 void main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     float h, f, p, d, s;
     int i, j, n;
     printf("Enter the value of n (number of terms you want to enter): ");

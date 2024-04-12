@@ -2,6 +2,8 @@
 #define f(x, y) x + y
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     float x0, y0, xn, h, yn, slope;
     int i, n;
     printf("Enter Initial Condition\n");

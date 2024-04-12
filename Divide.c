@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
     float x[10], y[10], p[10];
     float k, f, n, f1 = 1, f2 = 0;
     int i, j = 1;

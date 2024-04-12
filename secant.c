@@ -8,6 +8,8 @@ double f(double x)
 
 int main()
 {
+    printf("This code is run by Bijay Shrestha.\n");
+
     double x0, x1, x2, f0, f1, f2, e;
     int SN = 1;
 
